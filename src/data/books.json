@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "price": 14.99,
+    "category": "Thriller",
+    "cover": "/images/book-1.jpg",
+    "description": "A psychological thriller about a woman's act of violence against her husband."
+  },
+  {
+    "id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 16.00,
+    "category": "Self-Help",
+    "cover": "/images/book-2.jpg",
+    "description": "An easy & proven way to build good habits & break bad ones."
+  },
+  {
+    "id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 10.99,
+    "category": "Fiction",
+    "cover": "/images/book-3.jpg",
+    "description": "A dystopian social science fiction novel and cautionary tale."
+  },
+  {
+    "id": "4",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "price": 18.50,
+    "category": "History",
+    "cover": "/images/book-4.jpg",
+    "description": "A brief history of humankind."
+  },
+  {
+    "id": "5",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "price": 15.99,
+    "category": "Science Fiction",
+    "cover": "/images/book-5.jpg",
+    "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides."
+  },
+  {
+    "id": "6",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 11.50,
+    "category": "Fiction",
+    "cover": "/images/book-6.jpg",
+    "description": "The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan."
+  },
+  {
+    "id": "7",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "price": 20.00,
+    "category": "Science Fiction",
+    "cover": "/images/book-7.jpg",
+    "description": "A lone astronaut must save the earth from disaster in this incredible new science-based thriller."
+  },
+  {
+    "id": "8",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "price": 17.00,
+    "category": "Psychology",
+    "cover": "/images/book-8.jpg",
+    "description": "The groundbreaking tour of the mind and explains the two systems that drive the way we think."
+  },
+  {
+    "id": "9",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "price": 13.50,
+    "category": "Fiction",
+    "cover": "/images/book-9.jpg",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever."
+  },
+  {
+    "id": "10",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "price": 15.00,
+    "category": "Biography",
+    "cover": "/images/book-10.jpg",
+    "description": "A memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge University."
+  }
+]
