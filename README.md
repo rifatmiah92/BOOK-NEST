@@ -1,7 +1,20 @@
-📚 Book Nest – Neubrutalist BookstoreBook Nest is a high-contrast bookstore platform built with Next.js 14 and Firebase. It utilizes a "Neubrutalist" design with bold borders and a bento-box layout to showcase a specialized book catalog. 
- LinksLive Demo: (https://book-nest-bd.netlify.app/) 
- Key FeaturesNeubrutalist UI: High-contrast white cards, 4px black borders, and hard black shadows.Bento-Box Home: 7-section landing page including Hero, Featured Books, and Stats.
- Firebase Auth: Secure Email/Password and Google login with persistent user state.
- Book Management: Public catalog with dynamic details and protected routes for inventory management.Responsive: Fully optimized for mobile, tablet, and desktop viewing. 
- Tech StackFramework: Next.js 14 (App Router)Styling: Tailwind CSSBackend/Auth: FirebaseState: React Context API InstallationClone: git clone [repository-url]Install: npm installEnv: Configure Firebase keys in .env.local.Run: npm run dev Route SummaryRouteAccessDescription/PublicLanding page with 7 bento-grid sections./itemsPublicFilterable catalog with 20+ books./items/[id]PublicDynamic book details and related items./loginPublicFirebase-powered authentication./items/addProtectedForm to add new inventory./items/manageProtectedTable to edit or delete entries.
-Challenges & Future PlansChallenge: Implementing hard-shadow grid layouts while ensuring mobile responsiveness.Future: Integration of Stripe for secure payments and activity tracking for admin management.
+Book Nest 
+Project Link: (https://book-nest-bd.netlify.app/) 
+ 
+Built a visually engaging and user-friendly online bookstore where users can easily browse, search, and purchase books from a diverse collection. The platform focuses on clean UI design, smooth navigation, and an enjoyable shopping experience.
+
+
+Tech Stack
+Next.js 14, TypeScript, Tailwind CSS, Firebase
+
+Challenges
+Implementing type-safe components and API handling with TypeScript
+Managing dynamic routing for book details and categories
+Ensuring fast loading performance with SSR/ISR in Next.js
+Handling user authentication and protected routes (if you used Firebase auth)
+
+Future Improvements
+Integration of Stripe for secure online payments
+Adding a shopping cart and order tracking system
+Building an admin dashboard for book and inventory management
+Implementing user reviews and ratings system
